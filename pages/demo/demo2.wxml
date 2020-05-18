@@ -1,0 +1,4 @@
+<view>
+  <button bindtap="aclick">按钮点击</button>
+  <image src="{{msg_a}}"></image>
+</view>

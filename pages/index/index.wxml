@@ -1,0 +1,5 @@
+<view class="nav">
+  <view class="nav-item" wx:for='{{navs}}' wx:key='{{index}}'>
+      {{index}}:{{item.name}}                                                           
+  </view>
+</view>
